@@ -1,6 +1,4 @@
 #labels photo,exp,hell
-===*Team*===
-
 <img src="http://lh3.ggpht.com/_GS4XxnE2X5g/ST27K5pG1XI/AAAAAAAAABU/nIKfyEHAZmQ/team.jpg" />
 
 Ademilson (programador)<br/>
