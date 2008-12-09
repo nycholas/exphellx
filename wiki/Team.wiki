@@ -1,0 +1,13 @@
+#labels photo,exp,hell
+===*Team*===
+
+<img src="http://lh3.ggpht.com/_GS4XxnE2X5g/ST27K5pG1XI/AAAAAAAAABU/nIKfyEHAZmQ/team.jpg" />
+
+Ademilson (programador)<br/>
+_ademilsonfp@gmail.com_
+<br/><br/>
+Nycholas (programador)<br/>
+_nycholas@gmail.com_
+<br/><br/>
+Anderson (designer)<br/>
+_mandax.contato@gmail.com_
