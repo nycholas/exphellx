@@ -1,11 +1,12 @@
 #labels photo,exp,hell
 Ademilson (programador)<br/>
 _ademilsonfp@gmail.com_
-<br/><br/>
+
 Nycholas (programador)<br/>
 _nycholas@gmail.com_
-<br/><br/>
+
 Anderson (designer)<br/>
 _mandax.contato@gmail.com_
-Marcio Vinicius Brandão (designer/programador)
+
+Marcio Vinicius Brandão (designer/programador)<br />
 _live.faster.die.young@gmail.com_
