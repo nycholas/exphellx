@@ -1,11 +1,14 @@
-#labels photo,exp,hell
-Ademilson (programador)<br/>
+#labels team
+Ademilson Ferreira Pinto (programador)<br/>
 _ademilsonfp@gmail.com_
 
-Nycholas (programador)<br/>
+Nycholas de Oliveira e Oliveira (programador)<br/>
 _nycholas@gmail.com_
 
-Anderson (designer)<br/>
+Daniel Alves (programador)<br/>
+_danielvaz@gmail.com_
+
+Anderson Ferreira Pinto (designer)<br/>
 _mandax.contato@gmail.com_
 
 Marcio Vinicius Brandão (designer/programador)<br />
