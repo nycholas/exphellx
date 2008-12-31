@@ -1,6 +1,4 @@
 #labels photo,exp,hell
-<img src="http://lh3.ggpht.com/_GS4XxnE2X5g/ST27K5pG1XI/AAAAAAAAABU/nIKfyEHAZmQ/team.jpg" />
-
 Ademilson (programador)<br/>
 _ademilsonfp@gmail.com_
 <br/><br/>
@@ -9,3 +7,5 @@ _nycholas@gmail.com_
 <br/><br/>
 Anderson (designer)<br/>
 _mandax.contato@gmail.com_
+Marcio Vinicius Brandão (designer/programador)
+_live.faster.die.young@gmail.com_
