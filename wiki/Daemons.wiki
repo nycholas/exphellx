@@ -1,0 +1,16 @@
+#labels daemons,boss
+= Daemons =
+
+ * Beelzebuth (judeu/cristão)
+ * Samael (judeu)
+ * Anúbis (egípcio)
+ * Oni (chines) 
+ * Baal (cristão) + Cérberus (grego)
+ * Radamando (grego)
+ * Lilith, Súcubo (medieval)
+ * Ah Puch (maia)
+ * Ifrit (árabe)
+ * Dahaka (pérsa)
+ * Nija (polaco)
+ * Pazuzu (suméria)
+ * Jormungand (nórdico)
