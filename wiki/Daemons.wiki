@@ -1,5 +1,5 @@
 #labels daemons,boss
-= Daemons =
+= Daemons/Boss =
 
  * Beelzebuth (judeu/cristão)
  * Samael (judeu)
