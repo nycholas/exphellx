@@ -3,9 +3,9 @@
 
 == Sumário ==
 
-[http://code.google.com/p/exphellx/wiki/Game Game]<br />
-[http://code.google.com/p/exphellx/wiki/History History]<br />
-[http://code.google.com/p/exphellx/wiki/Daemons Daemons]<br />
-[http://code.google.com/p/exphellx/wiki/Team Team]<br />
-[http://code.google.com/p/exphellx/wiki/Gallery Gallery]<br />
-[http://code.google.com/p/exphellx/wiki/About About]<br />
+ * [http://code.google.com/p/exphellx/wiki/Game Game]<br />
+ * [http://code.google.com/p/exphellx/wiki/History History]<br />
+ * [http://code.google.com/p/exphellx/wiki/Daemons Daemons]<br />
+ * [http://code.google.com/p/exphellx/wiki/Team Team]<br />
+ * [http://code.google.com/p/exphellx/wiki/Gallery Gallery]<br />
+ * [http://code.google.com/p/exphellx/wiki/About About]<br />
