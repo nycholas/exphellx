@@ -1,4 +1,6 @@
 #labels team
+= Equipe =
+
 Ademilson Ferreira Pinto (programador)<br/>
 _ademilsonfp@gmail.com_
 
