@@ -1,29 +1,29 @@
 #labels daemons,boss
 Lista dos demônios com uma breve descrição.
 
- * [#Beelzebuth Beelzebuth (Judeu/Cristão)]
- * [#Samael Samael (Judeu)]
- * [#Anubis Anúbis (Egípcio)]
- * [#Oni Oni (Chines)]
- * [#Baal Baal (Cristão)]
- * [#Cerberus Cerberus (Grego)]
- * [#Radamanto Radamanto (Grego)]
- * [#Lilith Lilith, Súcubo (Medieval)]
- * [#AhPuch Ah Puch (Maia)]
- * [#Ifrit Ifrit (Árabe)]
- * [#Dahaka Dahaka (Pérsa)]
- * [#Nija Nija (Polaco)]
- * [#Pazuzu Pazuzu (Suméria)]
- * [#Jormungand Jormungand (Nórdico)]
+ * [Daemons#Beelzebuth Beelzebuth (Judeu/Cristão)]
+ * [Daemons#Samael Samael (Judeu)]
+ * [Daemons#Anubis Anúbis (Egípcio)]
+ * [Daemons#Oni Oni (Chines)]
+ * [Daemons#Baal Baal (Cristão)]
+ * [Daemons#Cerberus Cerberus (Grego)]
+ * [Daemons#Radamanto Radamanto (Grego)]
+ * [Daemons#Lilith Lilith, Súcubo (Medieval)]
+ * [Daemons#AhPuch Ah Puch (Maia)]
+ * [Daemons#Ifrit Ifrit (Árabe)]
+ * [Daemons#Dahaka Dahaka (Pérsa)]
+ * [Daemons#Nija Nija (Polaco)]
+ * [Daemons#Pazuzu Pazuzu (Suméria)]
+ * [Daemons#Jormungand Jormungand (Nórdico)]
 
 ----
 
-=== [Beelzebuth Beelzebuth (Judeu/Cristão)] ===
+=== [#Beelzebuth Beelzebuth (Judeu/Cristão)] ===
 
 Beelzebuth deformação do nome de uma divindade filistéia ou cananéia: Baal Zebub ou Baal Zebul, deus das moscas, ou deus da aldeia de Zebub, transformado pelas demonologias judaica e cristã em príncipe dos demônios.
 
 
-=== [#Samael Samael (Judeu)] ===
+=== [Samael Samael (Judeu)] ===
 
 Samael-anjo. Segundo a etimologia, Samael significa Veneno (sam) de deus (el). Também é chamado de acusador, sedutor, deus-cego e destruidor. Na Cabala os 7 Anjos que estão diante do Trono de Deus (como mencionados no Apocalipse de São João) são representações dos Poderes Divinos. Tais poderes cósmicos podem ser polarizados tanto positiva quanto negativamente dentro do ser humano. A Polaridade negativa da energia cósmica de Samael é simbolizada por um anjo caído, cuja consorte é Lilith.
 
