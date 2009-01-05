@@ -1,2 +1,8 @@
 #labels about
-A game in hell!
+= Projeto ExpHellX =
+
+A idéia do projeto surgiu em 08 de dezembro de 2008, em uma breve...
+
+= O jogo =
+
+A equipe está trabalhando para o desenvolvimento de um jogo multi-plataforma (Linux - like-Unix, Windows, OS X) e de licença livre escrito em [http://www.python.org/ Python] com o motor 3d [http://www.panda3d.org/ Panda3D], [http://www.blender.org Blender] para modelagem e animação, [http://www.ode.org/ Ode] para o motor de simulação de física, [http://www.fmod.org/ FMOD] para as músicas e efeitos de sonoros. O proposito do jogo é puramente uma experiência em desenvolver jogos, ;-).
