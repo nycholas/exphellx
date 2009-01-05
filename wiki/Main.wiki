@@ -1,4 +1,8 @@
 #labels main
+= Página Inicial =
+
+== Sumário ==
+
 [http://code.google.com/p/exphellx/wiki/Game Game]<br />
 [http://code.google.com/p/exphellx/wiki/History History]<br />
 [http://code.google.com/p/exphellx/wiki/Daemons Daemons]<br />
