@@ -1,6 +1,9 @@
 #labels main
 = Página Inicial =
 
+A game in hell!
+
+
 == Sumário ==
 
  * [http://code.google.com/p/exphellx/wiki/Game Game]<br />
