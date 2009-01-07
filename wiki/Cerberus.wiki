@@ -1,0 +1,4 @@
+#labels daemons,boss,cerberus
+Na mitologia grega, Cérbero ou [Cerberus] (em grego, Κέρβερος – Kerberos = "demónio do poço") era um monstruoso cão de múltiplas cabeças e cobras ao redor do pescoço que guardava a entrada do Hades, o reino subterrâneo dos mortos, deixando as almas entrarem, mas jamais saírem e despedaçando os mortais que por lá se aventurassem.
+
+----
