@@ -10,8 +10,8 @@ Dahaka é descrito como um monstro similar um dragão de três cabeças. Diz-se 
 || *Nome* || xxx ||
 || *Local do Nascimento* || xxx ||
 || *Data de Nascimento* || xxx ||
-|| *Altura* || 666 m ||
-|| *Peso* || 666 kg ||
+|| *Altura* || xxx ||
+|| *Peso* || xxx ||
 || *Personalidade* || xxx ||
 
 <br />
