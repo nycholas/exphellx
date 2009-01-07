@@ -4,12 +4,12 @@ Na mitologia nórdica, [Jormungand] é o segundo filho de Loki com a gigante Ang
 ----
 = Características =
 
-*Nome:* [Jormungand]
-*Local do Nascimento:* xxx
-*Data de Nascimento:* xxx
-*Altura:* 88 m
-*Peso:* 888 kg
-*Personalidade:* xxx
+|| *Nome* || [Jormungand] ||
+|| *Local do Nascimento* || xxx ||
+|| *Data de Nascimento* || xxx ||
+|| *Altura* || 88 m ||
+|| *Peso* || 888 kg ||
+|| *Personalidade* || xxx ||
 
 ----
 <a src="http://www.freewebs.com/destructionofthesticks/jormungand.jpg"><img width="10%" height="10%" border="0" src="http://www.freewebs.com/destructionofthesticks/jormungand.jpg" /></a>
