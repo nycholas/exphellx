@@ -3,12 +3,27 @@
 
 A game in hell!
 
-
+<br />
+----
 == Sumário ==
 
  * [http://code.google.com/p/exphellx/wiki/Game Game]<br />
  * [http://code.google.com/p/exphellx/wiki/History History]<br />
  * [http://code.google.com/p/exphellx/wiki/Daemons Daemons]<br />
+  # [Beelzebuth Beelzebuth (Judeu/Cristão)]
+  # [Samael Samael (Judeu)]
+  # [Anubis Anúbis (Egípcio)]
+  # [Oni Oni (Chines)]
+  # [Baal Baal (Cristão)]
+  # [Cerberus Cerberus (Grego)]
+  # [Radamanto Radamanto (Grego)]
+  # [Lilith Lilith, Súcubo (Medieval)]
+  # [Ah_Puch Ah Puch (Maia)]
+  # [Ifrit Ifrit (Árabe)]
+  # [Dahaka Dahaka (Pérsa)]
+  # [Nija Nija (Polaco)]
+  # [Pazuzu Pazuzu (Suméria)]
+  # [Jormungand Jormungand (Nórdico)]
  * [http://code.google.com/p/exphellx/wiki/Team Team]<br />
  * [http://code.google.com/p/exphellx/wiki/Gallery Gallery]<br />
  * [http://code.google.com/p/exphellx/wiki/About About]<br />
