@@ -16,8 +16,8 @@ Ah Puch, a antítese de Itzamná, tem como ele, os hieróglifos de seu nome, e �
 || *Nome* || xxx ||
 || *Local do Nascimento* || xxx ||
 || *Data de Nascimento* || xxx ||
-|| *Altura* || 666 m ||
-|| *Peso* || 666 kg ||
+|| *Altura* || xxx ||
+|| *Peso* || xxx ||
 || *Personalidade* || xxx ||
 
 <br />
