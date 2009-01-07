@@ -1,10 +1,12 @@
 #labels main
-= Índice =
+A game in hell!
 ----
 
- * [Game] - Resumo sobre o jogo.<br />
- * [History] - História do jogo.<br />
- * [Daemons] - Demônios chefes de cada sub-inferno (13 sub-infernos).<br />
+= Índice =
+
+ * [Game] - Resumo sobre o jogo.
+ * [History] - História do jogo.
+ * [Daemons] - Demônios chefes de cada sub-inferno (13 sub-infernos).
   # [Beelzebuth] - Judeu/Cristão
   # [Samael] - Judeu
   # [Anubis] - Egípcio
@@ -19,6 +21,6 @@
   # [Nija] - Polaco
   # [Pazuzu] - Suméria
   # [Jormungand] - Nórdico
- * [Team] - Equipe e breve descrição dos membros.<br />
- * [Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.<br />
- * [About] - Sobre o projeto, ExpHellX.<br />
+ * [Team] - Equipe e breve descrição dos membros.
+ * [Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.
+ * [About] - Sobre o projeto, ExpHellX.
