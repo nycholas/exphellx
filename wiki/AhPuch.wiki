@@ -1,4 +1,4 @@
-#labels daemons,boss,ah-puch
+#labels daemons,boss,ahpuch
 Ah Cimih. Também conhecido como Kizin' ("O Apestoso"), Yum-Kimil, Hun ahau.
 
 Na mitologia maia é o Deus e rei de Metnal,o inframundo,que era o pior dos nove infernos. Descrito como um esqueleto ou cadáver com um rosto de jaguar (ou boi) adornado com campainhas;
