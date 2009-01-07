@@ -5,25 +5,25 @@ A game in hell!
 
 <br />
 ----
-== Sumário ==
+== Índice ==
 
- * [http://code.google.com/p/exphellx/wiki/Game Game] - Resumo sobre o jogo.<br />
- * [http://code.google.com/p/exphellx/wiki/History History] - História do jogo.<br />
- * [http://code.google.com/p/exphellx/wiki/Daemons Daemons] - Demônios chefe de cada sub-inferno.<br />
-  # [Beelzebuth Beelzebuth (Judeu/Cristão)]
-  # [Samael Samael (Judeu)]
-  # [Anubis Anúbis (Egípcio)]
-  # [Oni Oni (Chines)]
-  # [Baal Baal (Cristão)]
-  # [Cerberus Cerberus (Grego)]
-  # [Radamanto Radamanto (Grego)]
-  # [Lilith Lilith, Súcubo (Medieval)]
-  # [AhPuch Ah Puch (Maia)]
-  # [Ifrit Ifrit (Árabe)]
-  # [Dahaka Dahaka (Pérsa)]
-  # [Nija Nija (Polaco)]
-  # [Pazuzu Pazuzu (Suméria)]
-  # [Jormungand Jormungand (Nórdico)]
- * [http://code.google.com/p/exphellx/wiki/Team Team] - Equipe e breve descrição dos membros.<br />
- * [http://code.google.com/p/exphellx/wiki/Gallery Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.<br />
- * [http://code.google.com/p/exphellx/wiki/About About] - Sobre o projeto, ExpHellX.<br />
+ * [Game] - Resumo sobre o jogo.<br />
+ * [History] - História do jogo.<br />
+ * [Daemons] - Demônios chefes de cada sub-inferno (13 sub-infernos).<br />
+  # [Beelzebuth] - Judeu/Cristão
+  # [Samael] - Judeu
+  # [Anubis] - Egípcio
+  # [Oni] - Chines
+  # [Baal] - Cristão
+  # [Cerberus] -  Grego
+  # [Radamanto] - Grego
+  # [Lilith Lilith, Súcubo] - Medieval
+  # [AhPuch Ah Puch] - Maia
+  # [Ifrit] - Árabe
+  # [Dahaka] - Pérsa
+  # [Nija] - Polaco
+  # [Pazuzu] - Suméria
+  # [Jormungand] - Nórdico
+ * [Team] - Equipe e breve descrição dos membros.<br />
+ * [Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.<br />
+ * [About] - Sobre o projeto, ExpHellX.<br />
