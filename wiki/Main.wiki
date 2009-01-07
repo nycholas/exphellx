@@ -18,7 +18,7 @@ A game in hell!
   # [Cerberus Cerberus (Grego)]
   # [Radamanto Radamanto (Grego)]
   # [Lilith Lilith, Súcubo (Medieval)]
-  # [Ah_Puch Ah Puch (Maia)]
+  # [AhPuch Ah Puch (Maia)]
   # [Ifrit Ifrit (Árabe)]
   # [Dahaka Dahaka (Pérsa)]
   # [Nija Nija (Polaco)]
