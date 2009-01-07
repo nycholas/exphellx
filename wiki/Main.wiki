@@ -1,11 +1,5 @@
 #labels main
-= Página Inicial =
-
-A game in hell!
-
-<br />
-----
-== Índice ==
+= Índice =
 
  * [Game] - Resumo sobre o jogo.<br />
  * [History] - História do jogo.<br />
