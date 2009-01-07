@@ -1,17 +1,17 @@
 #labels team
 = Equipe =
 
-Ademilson Ferreira Pinto (programador)<br/>
+[AdemilsonFerreiraPinto Ademilson Ferreira Pinto] (programador)<br/>
 _ademilsonfp@gmail.com_
 
-Nycholas de Oliveira e Oliveira (programador)<br/>
+[NycholasOliveiraOliveira Nycholas de Oliveira e Oliveira] (programador)<br/>
 _nycholas@gmail.com_
 
-Daniel Alves (programador)<br/>
+[DanielAlves Daniel Alves] (programador)<br/>
 _danielvaz@gmail.com_
 
-Anderson Ferreira Pinto (designer)<br/>
+[AndersonFerreiraPinto Anderson Ferreira Pinto] (designer)<br/>
 _mandax.contato@gmail.com_
 
-Marcio Vinicius Brandão (designer/programador)<br />
+[MarcioViniciusBrandao Márcio Vinícius Brandão] (designer/programador)<br />
 _live.faster.die.young@gmail.com_
