@@ -7,9 +7,9 @@ A game in hell!
 ----
 == Sumário ==
 
- * [http://code.google.com/p/exphellx/wiki/Game Game]<br />
- * [http://code.google.com/p/exphellx/wiki/History History]<br />
- * [http://code.google.com/p/exphellx/wiki/Daemons Daemons]<br />
+ * [http://code.google.com/p/exphellx/wiki/Game Game] - Resumo sobre o jogo.<br />
+ * [http://code.google.com/p/exphellx/wiki/History History] - História do jogo.<br />
+ * [http://code.google.com/p/exphellx/wiki/Daemons Daemons] - Demônios chefe de cada sub-inferno.<br />
   # [Beelzebuth Beelzebuth (Judeu/Cristão)]
   # [Samael Samael (Judeu)]
   # [Anubis Anúbis (Egípcio)]
@@ -24,6 +24,6 @@ A game in hell!
   # [Nija Nija (Polaco)]
   # [Pazuzu Pazuzu (Suméria)]
   # [Jormungand Jormungand (Nórdico)]
- * [http://code.google.com/p/exphellx/wiki/Team Team]<br />
- * [http://code.google.com/p/exphellx/wiki/Gallery Gallery]<br />
- * [http://code.google.com/p/exphellx/wiki/About About]<br />
+ * [http://code.google.com/p/exphellx/wiki/Team Team] - Equipe e breve descrição dos membros.<br />
+ * [http://code.google.com/p/exphellx/wiki/Gallery Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.<br />
+ * [http://code.google.com/p/exphellx/wiki/About About] - Sobre o projeto, ExpHellX.<br />
