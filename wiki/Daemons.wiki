@@ -18,7 +18,7 @@ Lista dos demônios com uma breve descrição.
 
 ----
 
-=== [Beelzebuth] ===
+=== Beelzebuth ===
 
 [Beelzebuth] deformação do nome de uma divindade filistéia ou cananéia: Baal Zebub ou Baal Zebul, deus das moscas, ou deus da aldeia de Zebub, transformado pelas demonologias judaica e cristã em príncipe dos demônios.
 
