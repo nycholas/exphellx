@@ -8,15 +8,20 @@ Na mitologia nórdica, [Jormungand] é o segundo filho de Loki com a gigante Ang
 || *Nome* || [Jormungand] ||
 || *Local do Nascimento* || xxx ||
 || *Data de Nascimento* || xxx ||
-|| *Altura* || 88 m ||
-|| *Peso* || 888 kg ||
+|| *Altura* || 666 m ||
+|| *Peso* || 666 kg ||
 || *Personalidade* || xxx ||
 
 <br />
 ----
 = Referências =
 
-<a src="http://www.freewebs.com/destructionofthesticks/jormungand.jpg"><img width="10%" height="10%" border="0" src="http://www.freewebs.com/destructionofthesticks/jormungand.jpg" /></a>
-<a src="http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg"><img width="10%" height="10%" border="0" src="http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg" /></a>
-<a src="http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg"><img width="10%" height="10%" border="0" src="http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg" /></a>
-<a src="http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg"><img width="10%" height="10%" border="0" src="http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg" /></a>
+<a href="http://www.freewebs.com/destructionofthesticks/jormungand.jpg"><img width="10%" height="10%" border="0" src="http://www.freewebs.com/destructionofthesticks/jormungand.jpg" /></a>
+<a href="http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg"><img width="10%" height="10%" border="0" src="http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg" /></a>
+<a href="http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg"><img width="10%" height="10%" border="0" src="http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg" /></a>
+<a href="http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg"><img width="10%" height="10%" border="0" src="http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg" /></a>
+
+----
+= Modelos =
+
+A game in hell!
