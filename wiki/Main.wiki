@@ -22,5 +22,5 @@ A game in hell!
   # [Pazuzu] - Suméria
   # [Jormungand] - Nórdico
  * [Team] - Equipe e breve descrição dos membros.
- * [Gallery] - Galeria de imagens das reuniões no Q.G do ExpHellX.
+ * [Gallery] - Galeria de imagens das reuniões no Q.G. do ExpHellX.
  * [About] - Sobre o projeto, ExpHellX.
