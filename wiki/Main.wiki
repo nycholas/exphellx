@@ -1,5 +1,6 @@
 #labels main
 = Índice =
+----
 
  * [Game] - Resumo sobre o jogo.<br />
  * [History] - História do jogo.<br />
