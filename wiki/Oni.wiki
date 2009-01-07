@@ -1,0 +1,4 @@
+#labels daemons,boss,oni
+[Oni] (鬼, [Oni]) são criaturas da mitologia japonesa. O termo [Oni] é equivalente ao termo "demônio" ou "ogro", porque tais podem descrever uma variedade grande das entidades.
+
+----
