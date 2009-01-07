@@ -25,8 +25,8 @@ Apareceu no clipe da banda Gorillaz - Rock It, enquanto a banda rodea o seu pró
 || *Nome* || xxx ||
 || *Local do Nascimento* || xxx ||
 || *Data de Nascimento* || xxx ||
-|| *Altura* || 666 m ||
-|| *Peso* || 666 kg ||
+|| *Altura* || xxx ||
+|| *Peso* || xxx ||
 || *Personalidade* || xxx ||
 
 <br />
