@@ -4,7 +4,7 @@ A game in hell!
 
 = Índice =
 
- * [GameDesignDocument] - Resumo sobre o jogo.
+ * [Game] - Especificação sobre o jogo.
  * [History] - História do jogo.
  * [Daemons] - Demônios chefes de cada sub-inferno (13 sub-infernos).
   # [Beelzebuth] - Judeu/Cristão
