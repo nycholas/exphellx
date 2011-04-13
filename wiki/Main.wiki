@@ -6,7 +6,7 @@ A game in hell!
 
  * [Game] - Especificação sobre o jogo.
  * [History] - História do jogo.
- * [Daemons] - Demônios chefes de cada sub-inferno (13 sub-infernos).
+ * [Daemons] - Demônios chefes de cada nível (13 níveis de inferno).
   # [Beelzebuth] - Judeu/Cristão
   # [Samael] - Judeu
   # [Anubis] - Egípcio
