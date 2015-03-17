@@ -1,0 +1,33 @@
+Na mitologia nórdica, [Jormungand](Jormungand.md) é o segundo filho de Loki com a gigante Angrboda. Tem como irmãos, Fenris (o lobo) e Hel (a Morte). [Jormungand](Jormungand.md) tem o aspecto de uma gigantesca serpente. De acordo com o Prose Edda, Odin raptou os três filhos de Loki, sendo [Jormungand](Jormungand.md) jogado no grande oceano que circula Midgard, aonde viveu desde então. A serpente cresceu tanto que seria capaz de cobrir a Terra e morder sua própria cauda, e como resultado disso, ela ganhou o nome alternativo de Serpente de Midgard ou Serpente do Mundo. O arqui-inimigo de [Jormungand](Jormungand.md) é o deus Thor. Durante o Ragnarök, ele se libertará e cobrirá a terra e os céus com seu veneno.
+
+<br />
+
+---
+
+# Características #
+
+| **Nome** | [Jormungand](Jormungand.md) |
+|:---------|:----------------------------|
+| **Local do Nascimento** | xxx |
+| **Data de Nascimento** | xxx |
+| **Altura** | xxx |
+| **Peso** | xxx |
+| **Personalidade** | xxx |
+
+<br />
+
+---
+
+# Referências #
+
+<a href='http://www.freewebs.com/destructionofthesticks/jormungand.jpg'><img width='10%' height='10%' border='0' src='http://www.freewebs.com/destructionofthesticks/jormungand.jpg' /></a>
+<a href='http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg'><img width='10%' height='10%' border='0' src='http://images.elfwood.com/art/b/a/baznaz/Jormungand.jpg' /></a>
+<a href='http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg'><img width='10%' height='10%' border='0' src='http://alextornberg.com/art/illustration/ginnungagap/alextornberg_jormungand.jpg' /></a>
+<a href='http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg'><img width='10%' height='10%' border='0' src='http://ffxi.allakhazam.com/images/mobs/Jormungand-Flying.jpg' /></a>
+
+
+---
+
+# Modelos #
+
+A game in hell!

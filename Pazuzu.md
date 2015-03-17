@@ -1,0 +1,59 @@
+Na mitologia suméria, [Pazuzu](Pazuzu.md) era o rei dos demônios do vento, filho do deus Hanbi. Ele também representava o vento sudoeste, que trazia as tempestades e a estiagem.
+
+### Iconografia ###
+
+---
+
+
+Pazuzu é frequentemente representado por uma criatura de corpo humano, mas com a cabeça de um leão ou cachorro, garras em vez de pés, um par de asas e a cauda de um escorpião. Normalmente essas representações vêm com a mão direita levantada e a esquerda abaixada, representando vida e morte, criação e destruição.
+
+### Mitologia ###
+
+---
+
+
+Pazuzu era conhecido por trazer a estiagem e a fome nas estações secas e as pragas nas estações chuvosas. Pazuzu era invocado em amuletos para lutar contra o deus maligno Lamashtu, um demônio feminino que se alimentava das crianças recém-nascidas e que acreditava-se ser o responsável por prejudicar a mãe durante o parto.
+
+### Cultura popular ###
+
+---
+
+
+Foi associado ao demônio da série de filmes "O Exorcista". Aparece também no game Devil May Cry com o nome de Beowulf
+
+Apareceu no clipe da banda Gorillaz - Rock It, enquanto a banda rodea o seu própio estúdio, Kong Studios, que tem uma estatueta do Pazuzu na frente.
+
+<br />
+
+---
+
+# Características #
+
+| **Nome** | xxx |
+|:---------|:----|
+| **Local do Nascimento** | xxx |
+| **Data de Nascimento** | xxx |
+| **Altura** | xxx |
+| **Peso** | xxx |
+| **Personalidade** | xxx |
+
+<br />
+
+---
+
+# Referências #
+
+<a href='http://usuarios.lycos.es/cronicasdelmisterio/pazuzu.jpg'><img width='10%' height='10%' border='0' src='http://usuarios.lycos.es/cronicasdelmisterio/pazuzu.jpg' /></a>
+<a href='http://www.archaeowiki.org/images/7/7d/Pazuzu_amulet.jpg'><img width='10%' height='10%' border='0' src='http://www.archaeowiki.org/images/7/7d/Pazuzu_amulet.jpg' /></a>
+<a href='http://www.pantheon.org/areas/gallery/mythology/middle_east/mesopotamian/pazuzu.jpg'><img width='10%' height='10%' border='0' src='http://www.pantheon.org/areas/gallery/mythology/middle_east/mesopotamian/pazuzu.jpg' /></a>
+<a href='http://www.marvunapp.com/Appendix3/pazuzudemon1.JPG'><img width='10%' height='10%' border='0' src='http://www.marvunapp.com/Appendix3/pazuzudemon1.JPG' /></a>
+<a href='http://members.fortunecity.com/ultramanarchive/images/022pazuzu.jpg'><img width='10%' height='10%' border='0' src='http://members.fortunecity.com/ultramanarchive/images/022pazuzu.jpg' /></a>
+<a href='http://www.wizards.com/dnd/images/alumni_Pazuzu_fc1.jpg'><img width='10%' height='10%' border='0' src='http://www.wizards.com/dnd/images/alumni_Pazuzu_fc1.jpg' /></a>
+
+<br />
+
+---
+
+# Modelos #
+
+A game in hell!

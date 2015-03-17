@@ -1,0 +1,33 @@
+[Beelzebuth](Beelzebuth.md) deformação do nome de uma divindade filistéia ou cananéia: Baal Zebub ou Baal Zebul, deus das moscas, ou deus da aldeia de Zebub, transformado pelas demonologias judaica e cristã em príncipe dos demônios.
+
+<br />
+
+---
+
+# Características #
+
+| **Nome** | xxx |
+|:---------|:----|
+| **Local do Nascimento** | xxx |
+| **Data de Nascimento** | xxx |
+| **Altura** | xxx |
+| **Peso** | xxx |
+| **Personalidade** | xxx |
+
+<br />
+
+---
+
+# Referências #
+
+<a href='http://www.reidovudu.com/exu_beelzebuth.jpg'><img width='10%' height='10%' border='0' src='http://www.reidovudu.com/exu_beelzebuth.jpg' /></a>
+<a href='http://tiagolocomill.zip.net/images/BAPHOMET.JPG'><img width='10%' height='10%' border='0' src='http://tiagolocomill.zip.net/images/BAPHOMET.JPG' /></a>
+<a href='http://www.freewebs.com/littleblackrosecoven/Left%20hand%20path/the_baphomet_by_tranquil_black%20small.jpg'><img width='10%' height='10%' border='0' src='http://www.freewebs.com/littleblackrosecoven/Left%20hand%20path/the_baphomet_by_tranquil_black%20small.jpg' /></a>
+<a href='http://demmosgoticos.vilabol.uol.com.br/imagens/baphomet.gif'><img width='10%' height='10%' border='0' src='http://demmosgoticos.vilabol.uol.com.br/imagens/baphomet.gif' /></a>
+
+
+---
+
+# Modelos #
+
+A game in hell!

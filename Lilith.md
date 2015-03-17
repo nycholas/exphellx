@@ -1,0 +1,62 @@
+Lilith (לילית em hebraico) é referida na Cabala como a primeira mulher do bíblico Adão, sendo que em uma passagem (Patai81:455f) ela é acusada de ser a serpente que levou Eva a comer o fruto proibido. No folclore popular hebreu medieval, ela é tida como a primeira esposa de Adão, que o abandonou, partindo do Jardim do Éden por causa de uma disputa, chegando depois a ser descrita como um demônio.
+
+De acordo com certas interpretações da criação humana em Gênesis, no Antigo Testamento, reconhecendo que havia sido criada por Deus com a mesma matéria prima, Lilith rebelou-se, recusando-se a ficar sempre em baixo durante as suas relações sexuais. Na modernidade, isso levou a popularização da noção de que Lilith foi a primeira mulher a rebelar-se contra o sistema patriarcal.
+
+Assim dizia Lilith: ‘‘Por que devo deitar-me embaixo de ti? Por que devo abrir-me sob teu corpo? Por que ser dominada por ti? Contudo, eu também fui feita de pó e por isso sou tua igual.’’ Quando reclamou de sua condição a Deus, ele retrucou que essa era a ordem natural, o domínio do homem sobre a mulher, dessa forma abandonou o Éden.
+
+Três anjos foram enviados em seu encalço, porém ela se recusou a voltar. Juntou-se aos anjos caídos onde se casou com Samael que tentou Eva ao passo que Lilith Tentou a Adão os fazendo cometer adultério. Desde então o homem foi expulso do paraíso e Lilith tentaria destruir a humanidade, filhos do adultério de Adão com Eva, pois mesmo abandonando seu marido ela não aceitava sua segunda mulher. Ela então perseguiria os homens, principalmente os adúlteros, crianças e recém casados para se vingar.
+
+Após os hebreus terem deixado a Babilônia Lilith perdeu aos poucos sua representatividade e foi limada do velho testamento. Eva é criada no sexto dia, e depois da solidão de Adão ela é criada novamente, sendo a primeira criação referente na verdade a Lilith no Gênesis.
+
+No período medieval ela era ainda muito citada entre as superstições de camponeses, como deixar um amuleto com o nome dos 3 anjos que a perseguiram para fora do Éden, Sanvi, Sansavi e Samangelaf para que ela não o matasse, assim como acordar o marido que sorrisse durante o sono, pois ele estaria sendo seduzido por Lilith.
+
+A imagem de Lilith, sob o nome Lilitu, apareceu primeiramente representando uma categoria de demônios ou espíritos de ventos e tormentas na Suméria por volta de 3000 A.E.C. Muitos estudiosos atribuem a origem do nome fonético Lilith por volta de 700 A.E.C.
+
+Ela é também associada a um demônio feminino da noite que originou na antiga Mesopotâmia. Era associada ao vento e, pensava-se, por isso, que ela era portadora de mal-estares, doenças e mesmo da morte. Porém algumas vezes ela se utilizaria da água como uma espécie de portal para o seu mundo. Também nas escrituras hebraicas (Talmud e Midrash) ela é referida como uma espécie de demônio.
+
+Talvez dada a sua longa associação à noite, surge sem quaisquer precedentes a denominação screech owl, ou seja, como coruja, na famosa tradução inglesa da bíblia, na Bíblia KJV ou King James Version. Ali está escrito, em Isaías 34:14 que ... the screech owl also shall rest there. É preciso salientar, comparativamente, que na renomada versão em língua portuguesa da bíblia, isto é, na tradução de João Ferreira de Almeida, esta passagem relata que ... os animais noturnos ali pousarão, não havendo menção da coruja[1](1.md), como é freqüentemente, muito embora erroneamente, citado no Brasil (tratando-se de um claro exemplo da forte influência da cultura anglo-saxã no mundo lusófono atual).
+
+Na Suméria e na Babilônia ela ao mesmo tempo que era cultuada era identificada com os demônios e espíritos malignos. Seu símbolo era a lua, pois assim como a lua ela seria uma deusa de fases boas e ruins. Alguns estudiosos assimilam ela a várias deusas da fertilidade, assim como deusas cruéis devido ao sincretismo com outras culturas. No fictício Livro de Nod, é também conhecida como Deusa da Lua, aquela que ensina Caim habilidades vampíricas, a que é tão antiga quanto o proprio Deus criador do céu e da terra.
+
+A imagem mais conhecida que temos dela é a imagem que nos foi dada pela cultura hebraica, uma vez que esse povo foi aprisionado e reduzido à servidão na Babilônia, onde Lilith era cultuada, é bem provável que viam Lilith como um símbolo de algo negativo. Vemos assim a transformação de Lilith no modelo hebraico de demônio. Assim surgiu as lendas vampíricas, Lilith tinha 100 filhos por dia, súcubus quando mulheres e íncubus quando homens, ou simplesmente lilims. Eles se alimentavam da energia desprendida no ato sexual e de sangue humano. Também podiam manipular os sonhos humanos, seriam os geradores das poluções noturnas. Mas uma vez possuído por um súcubus dificilmente um homem saía com vida.
+
+Há certas particularidades interessantes nos ataques de Lilith, como o aberto esmagador sobre o peito, uma vingança por ter sido obrigada a ficar por baixo de Adão, e sua habilidade de cortar o pênis com a vagina segundo os relatos católicos medievais. Ao mesmo tempo que ela representa a liberdade sexual feminina, também representa a castração masculina.
+
+Pensa-se que o Relevo Burney (ver alusões à coruja na reprodução do Relêvo de Burney, nesta página), um relevo sumério, represente Lilith; muitos acreditam também que há uma relação entre Lilith e Inanna, deusa suméria da guerra e do prazer sexual.
+
+Algumas vezes Lilith é associada com a deusa grega Hécate, "A mulher escarlate", um demônio que guarda as portas do inferno montada em um enorme cão de três cabeças, Cérbero. Hécate, assim como Lilith, representa na cultura grega a vida noturna e a rebeldia da mulher sobre o homem.
+
+Nos dois últimos séculos a imagem de Lilith começou a passar por uma remarcável transformação em certos círculos intelectuais seculares europeus, por exemplo, na literatura e nas artes, quando os românticos passaram a se ater mais a imagem sensual e sedutora de Lilith (ver a reprodução do quadro Lilith de John Collier, pintada em 1892), e aos seus atributos considerados impossíveis de serem obtidos, em um contraste radical à sua tradicional imagem demoníaca, noturna, devoradora de crianças, causadora pragas, depravação, homossexualidade e vampirismo (ver texto gnóstico na seção de links externos). Podendo ser citados também os nomes de Johann Wolfgang von Goethe, John Keats, Robert Browning, Dante Gabriel Rossetti, John Collier, etc...Lilith também é considerda um dos Arquidemônios símbolo da vaidade.
+
+<br />
+
+---
+
+# Características #
+
+| **Nome** | xxx |
+|:---------|:----|
+| **Local do Nascimento** | xxx |
+| **Data de Nascimento** | xxx |
+| **Altura** | xxx |
+| **Peso** | xxx |
+| **Personalidade** | xxx |
+
+<br />
+
+---
+
+# Referências #
+
+<a href='http://toreador6660.tripod.com/toreador_666/lilith4.jpg'><img width='10%' height='10%' border='0' src='http://toreador6660.tripod.com/toreador_666/lilith4.jpg' /></a>
+<a href='http://spawn.com/toys/spawn/series23/lilith-mut/images/series23_lilith-mut_photo_01_dp.jpg'><img width='10%' height='10%' border='0' src='http://spawn.com/toys/spawn/series23/lilith-mut/images/series23_lilith-mut_photo_01_dp.jpg' /></a>
+<a href='http://sofadasala.vilabol.uol.com.br/matabaratha/lilith05.jpg'><img width='10%' height='10%' border='0' src='http://sofadasala.vilabol.uol.com.br/matabaratha/lilith05.jpg' /></a>
+<a href='http://www.fonteeditorial.com.br/LILITH.JPG'><img width='10%' height='10%' border='0' src='http://www.fonteeditorial.com.br/LILITH.JPG' /></a>
+<a href='http://th01.deviantart.com/fs6/300W/i/2005/095/d/e/_Lilith__by_Ikun.jpg'><img width='10%' height='10%' border='0' src='http://th01.deviantart.com/fs6/300W/i/2005/095/d/e/_Lilith__by_Ikun.jpg' /></a>
+
+
+---
+
+# Modelos #
+
+A game in hell!

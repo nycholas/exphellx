@@ -1,0 +1,144 @@
+Lista dos demônios com uma breve descrição.
+
+  * [Beelzebuth (Judeu/Cristão)](Daemons#Beelzebuth.md)
+  * [Samael (Judeu)](Daemons#Samael.md)
+  * [Anúbis (Egípcio)](Daemons#Anubis.md)
+  * [Oni (Chines)](Daemons#Oni.md)
+  * [Baal (Cristão)](Daemons#Baal.md)
+  * [Cerberus (Grego)](Daemons#Cerberus.md)
+  * [Radamanto (Grego)](Daemons#Radamanto.md)
+  * [Lilith, Súcubo (Medieval)](Daemons#Lilith.md)
+  * [Ah Puch (Maia)](Daemons#Ah_Puch.md)
+  * [Ifrit (Árabe)](Daemons#Ifrit.md)
+  * [Dahaka (Pérsa)](Daemons#Dahaka.md)
+  * [Nija (Polaco)](Daemons#Nija.md)
+  * [Pazuzu (Suméria)](Daemons#Pazuzu.md)
+  * [Jormungand (Nórdico)](Daemons#Jormungand.md)
+
+<br /><br />
+### Beelzebuth ###
+
+---
+
+
+[Beelzebuth](Beelzebuth.md) deformação do nome de uma divindade filistéia ou cananéia: Baal Zebub ou Baal Zebul, deus das moscas, ou deus da aldeia de Zebub, transformado pelas demonologias judaica e cristã em príncipe dos demônios.
+
+
+### Samael ###
+
+---
+
+
+Samael-anjo. Segundo a etimologia, [Samael](Samael.md) significa Veneno (sam) de deus (el). Também é chamado de acusador, sedutor, deus-cego e destruidor. Na Cabala os 7 Anjos que estão diante do Trono de Deus (como mencionados no Apocalipse de São João) são representações dos Poderes Divinos. Tais poderes cósmicos podem ser polarizados tanto positiva quanto negativamente dentro do ser humano. A Polaridade negativa da energia cósmica de [Samael](Samael.md) é simbolizada por um anjo caído, cuja consorte é [Lilith](Lilith.md).
+
+
+### Anubis ###
+
+---
+
+
+[Anúbis](Anubis.md), também conhecido como Anupu, ou Anupo e cujo nome hieroglífico é traduzido mais propriamente como Anpu, é o antigo deus egípcio da morte e dos moribundos, por vezes também considerado deus do submundo. Conhecido como deus do embalsamamento, presidia às mumificações e era também o guardião das necrópoles, das tumbas, e o juiz dos mortos. Os egípcios acreditavam que no julgamento de um morto era pesado seu coração e a pena da verdade (como podemos ver em muitas gravuras egípcias). Era quem guiava a alma dos mortos no Além.
+
+
+### Oni ###
+
+---
+
+
+[Oni](Oni.md) (鬼, [Oni](Oni.md)) são criaturas da mitologia japonesa. O termo [Oni](Oni.md) é equivalente ao termo "demônio" ou "ogro", porque tais podem descrever uma variedade grande das entidades.
+
+
+### Baal ###
+
+---
+
+
+[Baal](Baal.md) (em hebraico בַּעַל) é uma palavra semítica que significa Senhor, Lorde, Marido ou Dono (Don). Esta palavra em Hebraico é cognata de outra em acádio Bel, com o mesmo significado. A forma feminina de Baal é Baalath, o masculino plural é Baalin, e Balaoth no feminino plural. Esta palavra não tinha conotação exclusivamente religiosa, podendo ser empregada em relações pai e filhos (por exemplo) não sendo obrigatória uma separação hierárquica.
+
+
+### Cerberus ###
+
+---
+
+
+Na mitologia grega, Cérbero ou [Cerberus](Cerberus.md) (em grego, Κέρβερος – Kerberos = "demónio do poço") era um monstruoso cão de múltiplas cabeças e cobras ao redor do pescoço que guardava a entrada do Hades, o reino subterrâneo dos mortos, deixando as almas entrarem, mas jamais saírem e despedaçando os mortais que por lá se aventurassem.
+
+
+### Radamanto ###
+
+---
+
+
+[Radamanto](Radamanto.md) (ou Radamanthys) é um dos juizes dos mortos na mitologia grega. Filho de Zeus e Europa, irmão de Minos e Sarpédon. Foi adotado por Asterion, rei de Creta, quando este se casou com Europa.
+
+É atribuída a ele a organização do código de leis cretense, que serviu de modelo a várias cidades gregas. Expulso de Creta por seu irmão Minos, que tinha ciúme de sua popularidade, fugiu para a Beócia, onde se casou com Alcmena, viúva de Anfitrião. Teve com ela dois filhos, Gortis e Eritro.
+
+Era conhecido por sua sabedoria e justiça. Por causa de sua integridade, ao morrer tornou-se um dos juízes do Hades, juntamente com seu irmão Minos e Éaco. Segundo Platão, supunha-se que [Radamanto](Radamanto.md) julgava as almas vindas da Ásia, enquanto Éaco fazia o mesmo com as ocidentais, tendo Minos o voto decisivo.
+
+
+### Lilith ###
+
+---
+
+
+[Lilith](Lilith.md) (לילית em hebraico) é referida na Cabala como a primeira mulher do bíblico Adão, sendo que em uma passagem (Patai81:455f) ela é acusada de ser a serpente que levou Eva a comer o fruto proibido. No folclore popular hebreu medieval, ela é tida como a primeira esposa de Adão, que o abandonou, partindo do Jardim do Éden por causa de uma disputa, chegando depois a ser descrita como um demônio.
+
+Na lenda medieval ocidental, um súcubo (do latim succubus; aquela que está deitada sob) é um demônio com aparência feminina que invade o sonho dos homens a fim de ter uma relação sexual com eles.
+
+O súcubo se alimenta da energia sexual dos homens, e quando invade o sonho de uma pessoa ele toma a aparência do seu desejo sexual e suga a energia proveniente do prazer do atacado. Estão associados a casos de doenças e tormentos psicológicos de origem sexual, pois após os ataques se seguiam pesadelos e poluções noturnas nas vítimas.A contraparte masculina desse demônio é chamada de íncubo.
+
+
+### Ah Puch ###
+
+---
+
+
+Ah Cimih. Também conhecido como Kizin' ("O Apestoso"), Yum-Kimil, Hun ahau.
+
+Na mitologia maia é o Deus e rei de Metnal,o inframundo,que era o pior dos nove infernos. Descrito como um esqueleto ou cadáver com um rosto de jaguar (ou boi) adornado com campainhas;
+
+Corresponde ao quarto lugar, e pela ordem de sua representação, ao deus da morte, que aparece 88 vezes nos três manuscritos. Tem por cabeça uma caveira, mostra as costas desnudas e projeções da coluna vertebral; seu corpo está coberto de carne, e esta vemos inchada e coberta de círculos negros que sugerem a decomposição.
+
+
+### Ifrit ###
+
+---
+
+
+Na mitologia árabe, [Ifrit](Ifrit.md) (masculino) (árabe:عفريت, plural عفاريت), e ifritah (feminino), são os nomes dados a uma classe de Jinni infernais, notórios por sua grande força e astúcia.
+
+
+### Dahaka ###
+
+---
+
+
+[Dahaka](Dahaka.md) (Grande Serpente) é uma figura demoníaca nos textos e mitologia Pérsa Zoroástrica, onde é um do subordina da Angra Mainyu. Os nomes alternativos incluem Azi Dahak, Azhi Dahaka, Dahak.
+
+Dahaka é descrito como um monstro similar um dragão de três cabeças. Diz-se que tem mil sentidos,como o de matar das serpentes, dos escorpiões, e outras criaturas venenosas. Diz-se também que pode controlar as tempestades e trazer a doença. Este dragão foi derrotado pelo herói Thraetaona ou Fereydoun, mas não podia ser morto, por isso foi selado à montanha Damavand.
+
+
+### Nija ###
+
+---
+
+
+Deus polaco do mundo subterrâneo.
+
+
+### Pazuzu ###
+
+---
+
+
+Na mitologia suméria, [Pazuzu](Pazuzu.md) era o rei dos demônios do vento, filho do deus Hanbi. Ele também representava o vento sudoeste, que trazia as tempestades e a estiagem.
+
+[Pazuzu](Pazuzu.md) é frequentemente representado por uma criatura de corpo humano, mas com a cabeça de um leão ou cachorro, garras em vez de pés, um par de asas e a cauda de um escorpião. Normalmente essas representações vêm com a mão direita levantada e a esquerda abaixada, representando vida e morte, criação e destruição.
+
+
+### Jormungand ###
+
+---
+
+
+Na mitologia nórdica, [Jormungand](Jormungand.md) é o segundo filho de Loki com a gigante Angrboda. Tem como irmãos, Fenris (o lobo) e Hel (a Morte). [Jormungand](Jormungand.md) tem o aspecto de uma gigantesca serpente. De acordo com o Prose Edda, Odin raptou os três filhos de Loki, sendo [Jormungand](Jormungand.md) jogado no grande oceano que circula Midgard, aonde viveu desde então. A serpente cresceu tanto que seria capaz de cobrir a Terra e morder sua própria cauda, e como resultado disso, ela ganhou o nome alternativo de Serpente de Midgard ou Serpente do Mundo. O arqui-inimigo de [Jormungand](Jormungand.md) é o deus Thor. Durante o Ragnarök, ele se libertará e cobrirá a terra e os céus com seu veneno.
